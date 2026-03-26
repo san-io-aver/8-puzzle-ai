@@ -34,7 +34,7 @@ The board is represented as a 1D list `[1, 2, 3, 4, 5, 6, 7, 8, 0]` but processe
     https://github.com/san-io-aver/8-puzzle-ai.git
 
 2. **Run the application:**
-    python main.py
+    python game.py
 
 ---
 ## Roadmap (Next Steps)
