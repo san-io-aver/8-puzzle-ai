@@ -1,0 +1,13 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac junk
+.DS_Store
+
+# Build junk (if you use PyInstaller later)
+build/
+dist/
+*.spec
