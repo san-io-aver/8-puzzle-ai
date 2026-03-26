@@ -34,7 +34,7 @@ The board is represented as a 1D list `[1, 2, 3, 4, 5, 6, 7, 8, 0]` but processe
     https://github.com/san-io-aver/8-puzzle-ai.git
 
 2. **Run the application:**
-    > **Live Demo:** [Play the interactive web version here!](https://YOUR_USERNAME.github.io/8-puzzle-ai/)
+    > **Live Demo:** [Play the interactive web version here!](https://san-io-aver.github.io/8-puzzle-ai/)
 
 
     python game.py
